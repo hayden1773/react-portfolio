@@ -22,6 +22,7 @@ const Projectdatacards =[
         text: "This is a wonderful game to test your Marvel knowledge and see your score at the very end for how well you did",
         view: "https://hayden1773.github.io/marvelgame/",
     },
+    
 ];
 
 export default Projectdatacards;

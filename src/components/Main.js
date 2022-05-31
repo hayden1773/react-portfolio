@@ -9,8 +9,8 @@ const Main = () => {
         <img className="main-image" src={mainBack} alt="Star wars space"/>
         </div>
         <div className="content">
-            <p>hello, im an develoepr</p>
-            <h1>Full stack Developer</h1>
+            <p>Welcome to my React Portfolio</p>
+            <h1>Full-stack Developer</h1>
         
         <div>
             <Link to="/project" className="btn">Projects</Link>
