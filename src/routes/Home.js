@@ -8,6 +8,7 @@ const Home = () => {
     <div>
       <Navbar/>
       <Main />
+      
       <Footer />
     </div>
   )
