@@ -8,7 +8,7 @@ import ProjectData from "./Projectdata";
 const Pro = (props) => {
   return <div className= "project-container">
       <h1 className="pro-heading"></h1>
-      <div className="pro-container">
+      <div className="">
           <div className="pro-card">
               <img src={props.imgsrc} alt="Image of website that compiles movies with drinks" />
               <h2 className="pro-title">{props.title}</h2>
