@@ -17,4 +17,4 @@ class Secondary extends Component {
 
 }
 
-export default Secondary
+export default Secondary;

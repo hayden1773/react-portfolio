@@ -1,9 +1,9 @@
 
-import pro1 from"../assets/boozy-movies.png"
-import pro2 from"../assets/lost-pet-project.jpg"
-import pro3 from"../assets/marvel-game.jpg"
+import pro1 from "../assets/boozy-movies.png"
+import pro2 from "../assets/lost-pet-project.jpg"
+import pro3 from "../assets/marvel-game.jpg"
 
-const Projectdatacards =[
+const Projectdatacards = [
     {
         imgsrc: pro1,
         title: "Boozy Movies",
@@ -22,7 +22,8 @@ const Projectdatacards =[
         text: "This is a wonderful game to test your Marvel knowledge and see your score at the very end for how well you did",
         view: "https://hayden1773.github.io/marvelgame/",
     },
-    
+
+
 ];
 
 export default Projectdatacards;
